@@ -1,0 +1,238 @@
+no,country,subregion,population,birthrate,deathrate,median_age,life_expectancy,labor_force,unemployment,gdp,physician_density,health_expenditure,total_area,land_area,water_area,land_borders,dependency_status
+1,Algeria,Africa (Saharan),39542166,23.67,4.31,27.5,76.59,11780000,12.4,14500,1.21,5.2,2381741,2381741,0,Yes,None
+2,Egypt,Africa (Saharan),88487396,22.9,4.77,25.3,73.7,31960000,13.1,11800,2.83,5,1001450,995450,6000,Yes,None
+3,Libya,Africa (Saharan),6411776,18.03,3.58,28,76.26,1153000,30,14600,1.9,3.9,1759540,1759540,0,Yes,None
+4,Morocco,Africa (Saharan),33322699,18.2,4.81,28.5,76.71,12230000,9.9,8200,0.62,6.4,446550,446300,250,Yes,None
+5,Tunisia,Africa (Saharan),11037225,16.64,5.98,31.9,75.89,4038000,15.4,11400,1.22,7,163610,155360,8250,Yes,None
+6,Angola,Africa (Sub-Saharan),19625353,38.78,11.49,18,55.63,10850000,#N/A,7300,0.17,3.5,1246700,1246700,0,Yes,None
+7,Benin,Africa (Sub-Saharan),10448647,36.02,8.21,17.9,61.47,3662000,#N/A,2100,0.06,4.5,112622,110622,2000,Yes,None
+8,Botswana,Africa (Sub-Saharan),2182719,20.96,13.39,23.1,54.18,1177000,20,16400,0.4,5.3,581730,566730,15000,Yes,None
+9,Burkina Faso,Africa (Sub-Saharan),18931686,42.03,11.72,17.1,55.12,7692000,77,1700,0.05,6.2,274200,273800,400,Yes,None
+10,Burundi,Africa (Sub-Saharan),10742276,42.01,9.27,17,60.09,5255000,#N/A,800,#N/A,8.1,27830,25680,2150,Yes,None
+11,Cabo Verde,Africa (Sub-Saharan),545993,20.33,6.11,24.5,71.85,196100,12,6500,0.31,3.9,4033,4033,0,No,None
+12,Cameroon,Africa (Sub-Saharan),23739218,36.17,10.11,18.4,57.93,9612000,30,3100,0.08,5.1,475440,472710,2730,Yes,None
+13,Central African Republic,Africa (Sub-Saharan),5391539,35.08,13.8,19.5,51.81,2421000,8,600,0.05,3.8,622984,622984,0,Yes,None
+14,Chad,Africa (Sub-Saharan),11631456,36.6,14.28,17.4,49.81,5457000,#N/A,2600,0.04,3.5,1284000,1259200,24800,Yes,None
+15,Comoros,Africa (Sub-Saharan),780971,27.84,7.57,19.4,63.85,245200,6.5,1500,#N/A,4.5,2235,2235,0,No,None
+16,"Congo, Democratic Republic of the",Africa (Sub-Saharan),79375136,34.88,10.07,18.1,56.93,31080000,#N/A,800,#N/A,5.6,2344858,2267048,77810,Yes,None
+17,"Congo, Republic of the",Africa (Sub-Saharan),4755097,35.85,10,19.8,58.79,1807000,53,6700,0.1,3.2,342000,341500,500,Yes,None
+18,Cote d'Ivoire,Africa (Sub-Saharan),23295302,28.67,9.55,20.5,58.34,8543000,#N/A,3300,0.14,7.1,322463,318003,4460,Yes,None
+19,Djibouti,Africa (Sub-Saharan),828324,23.65,7.73,23.2,62.79,294600,60,3200,0.23,8.8,23200,23180,20,Yes,None
+20,Equatorial Guinea,Africa (Sub-Saharan),740743,33.31,8.19,19.5,63.85,195200,22.3,31800,#N/A,4.7,28051,28051,0,Yes,None
+21,Eritrea,Africa (Sub-Saharan),6527689,30,7.52,19.3,63.81,2620000,8.6,1300,#N/A,2.6,117600,101000,16600,Yes,None
+22,Ethiopia,Africa (Sub-Saharan),99465819,37.27,8.19,17.7,61.48,50970000,17.5,1800,0.03,3.8,1104300,1000000,104300,Yes,None
+23,Gabon,Africa (Sub-Saharan),1705336,34.49,13.12,18.6,52.04,674700,21,18600,#N/A,3.5,267667,257667,10000,Yes,None
+24,"Gambia, The",Africa (Sub-Saharan),1967709,30.86,7.15,20.5,64.6,777100,#N/A,1600,0.11,5,11300,10120,1180,Yes,None
+25,Ghana,Africa (Sub-Saharan),26327649,31.09,7.22,20.9,66.18,11990000,5.2,4300,0.1,5.2,238533,227533,11000,Yes,None
+26,Guinea,Africa (Sub-Saharan),11780162,35.74,9.46,18.8,60.08,5392000,#N/A,1200,0.1,6.3,245857,245717,140,Yes,None
+27,Guinea-Bissau,Africa (Sub-Saharan),1726170,33.38,14.33,19.9,50.23,731300,#N/A,1500,0.1,5.9,36125,28120,8005,Yes,None
+28,Kenya,Africa (Sub-Saharan),45925301,26.4,6.89,19.3,63.77,18660000,40,3200,0.2,4.7,580367,569140,11227,Yes,None
+29,Lesotho,Africa (Sub-Saharan),1947701,25.47,14.89,23.8,52.86,919900,28.1,3000,#N/A,11.6,30355,30355,0,Yes,None
+30,Liberia,Africa (Sub-Saharan),4195666,34.41,9.69,18.1,58.6,1654000,85,900,0.01,15.5,111369,96320,15049,Yes,None
+31,Madagascar,Africa (Sub-Saharan),23812681,32.61,6.81,19.4,65.55,12980000,#N/A,1500,0.16,4.1,587041,581540,5501,No,None
+32,Malawi,Africa (Sub-Saharan),17964697,41.56,8.41,16.4,60.66,5747000,#N/A,1100,0.02,9.2,118484,94080,24404,Yes,None
+33,Mali,Africa (Sub-Saharan),16955536,44.99,12.89,16.1,55.34,6283000,30,2200,0.08,5.8,1240192,1220190,20002,Yes,None
+34,Mauritania,Africa (Sub-Saharan),3596702,31.34,8.2,20.1,62.65,1356000,31,4400,0.13,6.4,1030700,1030700,0,Yes,None
+35,Mauritius,Africa (Sub-Saharan),1339827,13.29,6.91,34.4,75.4,624700,7.8,19500,1.62,4.8,2040,2030,10,No,None
+36,Mozambique,Africa (Sub-Saharan),25303113,38.58,12.1,17,52.94,13310000,17,1200,0.04,6.4,799380,786380,13000,Yes,None
+37,Namibia,Africa (Sub-Saharan),2212307,19.8,13.91,23.1,51.62,1210000,28.1,11400,0.37,8.3,824292,823290,1002,Yes,None
+38,Niger,Africa (Sub-Saharan),18045729,45.45,12.42,15.2,55.13,6500000,5.1,1100,0.02,7.2,1267000,1266700,300,Yes,None
+39,Nigeria,Africa (Sub-Saharan),181562056,37.64,12.9,18.2,53.02,58800000,23.9,6100,0.41,6.1,923768,910768,13000,Yes,None
+40,Rwanda,Africa (Sub-Saharan),12661733,33.75,8.96,18.8,59.67,6030000,#N/A,1800,0.06,10.7,26338,24668,1670,Yes,None
+41,"Saint Helena, Ascension, and Tristan da Cunha",Africa (Sub-Saharan),7795,9.88,7.44,41,79.36,2486,14,7800,#N/A,#N/A,308,308,0,No,"Saint Helena, Ascension, and Tristan da Cunha: overseas territory of the UK"
+42,Sao Tome and Principe,Africa (Sub-Saharan),194006,34.23,7.24,17.9,64.58,70620,13.5,3200,#N/A,7.9,964,964,0,No,None
+43,Senegal,Africa (Sub-Saharan),13975834,34.52,8.46,18.5,61.32,6737000,48,2500,0.06,5,196722,192530,4192,Yes,None
+44,Seychelles,Africa (Sub-Saharan),92430,14.19,6.89,34.4,74.49,39560,3,26300,1.07,4.7,455,455,0,No,None
+45,Sierra Leone,Africa (Sub-Saharan),5879098,37.03,10.81,19,57.79,2678000,9.1,1600,0.02,15.1,71740,71620,120,Yes,None
+46,Somalia,Africa (Sub-Saharan),10616380,40.45,13.62,17.8,51.96,3109000,#N/A,400,0.04,#N/A,637657,627337,10320,Yes,None
+47,South Africa,Africa (Sub-Saharan),53675563,20.75,9.91,26.5,62.34,21700000,26.8,13200,0.78,8.8,1219090,1214470,4620,Yes,None
+48,South Sudan,Africa (Sub-Saharan),12042910,36.91,8.18,17,#N/A,#N/A,#N/A,2000,#N/A,2.6,644329,#N/A,#N/A,Yes,None
+49,Sudan,Africa (Sub-Saharan),36108853,29.19,7.66,19.3,63.68,11920000,13.6,4300,0.28,7.2,1861484,#N/A,#N/A,Yes,None
+50,Swaziland,Africa (Sub-Saharan),1435613,24.67,13.56,21.2,51.05,446100,40,8500,0.17,8.5,17364,17204,160,Yes,None
+51,Tanzania,Africa (Sub-Saharan),51045882,36.39,8,17.5,61.71,26960000,#N/A,2900,0.03,7,947300,885800,61500,Yes,None
+52,Togo,Africa (Sub-Saharan),7552318,34.13,7.26,19.6,64.51,2595000,#N/A,1500,0.05,8.6,56785,54385,2400,Yes,None
+53,Uganda,Africa (Sub-Saharan),37101745,43.79,10.69,15.6,54.93,19030000,#N/A,2000,0.12,8,241038,197100,43938,Yes,None
+54,Western Sahara,Africa (Sub-Saharan),570866,30.24,8.34,20.9,62.64,144000,#N/A,2500,#N/A,#N/A,266000,266000,0,Yes,None
+55,Zambia,Africa (Sub-Saharan),15066266,42.13,12.67,16.7,52.15,7116000,15,3900,0.17,6.5,752618,743398,9220,Yes,None
+56,Zimbabwe,Africa (Sub-Saharan),14229541,32.26,10.13,20.4,57.05,8098000,95,2100,0.08,#N/A,390757,386847,3910,Yes,None
+57,Australia,Australasia,22751014,12.15,7.14,38.4,82.15,12630000,5.8,65400,3.27,9.1,7741220,7682300,58920,No,None
+58,New Zealand,Australasia,4438393,13.33,7.36,37.7,81.05,2562000,5.1,36200,2.74,10.3,268838,264537,4301,No,None
+59,Papua New Guinea,Australasia,6672429,24.38,6.53,22.6,67.03,4365000,1.9,2700,0.06,5.2,462840,452860,9980,Yes,None
+60,Anguilla,Caribbean,16418,12.67,4.57,34.3,81.31,6049,8,12200,#N/A,#N/A,91,91,0,No,Anguilla overseas territory of the UK
+61,Antigua and Barbuda,Caribbean,92436,15.85,5.69,31.4,76.33,30000,11,23600,#N/A,5.2,443,443,0,No,None
+62,Aruba,Caribbean,112162,12.56,8.18,39,76.56,51610,6.9,25300,#N/A,#N/A,180,180,0,No,Aruba: constituent country of the Kingdom of the Netherlands; full autonomy in internal affairs obtained in 1986 upon separation from the Netherlands Antilles; Dutch Government responsible for defense and foreign affairs
+63,"Bahamas, The",Caribbean,324597,15.5,7.05,31.5,72.2,196900,15,25200,2.82,7.5,13880,10010,3870,No,None
+64,Barbados,Caribbean,290604,11.87,8.44,38,75.18,142500,11,16600,1.81,6.3,430,430,0,No,None
+65,British Virgin Islands,Caribbean,33454,10.91,4.99,35.9,78.46,12770,8.7,42300,#N/A,#N/A,151,151,0,No,British Virgin Islands: overseas territory of the UK; internal self-governing
+66,Cayman Islands,Caribbean,56092,12.11,5.53,39.7,81.13,39000,4,43800,#N/A,#N/A,264,264,0,No,Cayman Islands: overseas territory of the UK
+67,Cuba,Caribbean,11031433,9.9,7.72,40.4,78.39,5117000,2.5,10200,6.72,8.6,110860,109820,1040,No,None
+68,Curacao,Caribbean,146836,#N/A,8,36.1,77.98,73010,13,15000,#N/A,#N/A,444,444,0,No,Curacao: constituent country within the Kingdom of the Netherlands; full autonomy in internal affairs granted in 2010; Dutch Government responsible for defense and foreign affairs
+69,Dominica,Caribbean,73607,15.41,7.91,32.6,76.79,25000,23,10700,#N/A,5.9,751,751,0,No,None
+70,Dominican Republic,Caribbean,10478756,18.73,4.55,27.4,77.97,5113000,13.8,15000,1.49,5.4,48670,48320,350,Yes,None
+71,Grenada,Caribbean,110694,16.03,8.08,30.4,74.05,59900,33.5,13100,0.66,6.4,344,344,0,No,None
+72,Haiti,Caribbean,10110019,22.31,7.83,22.5,63.51,4594000,40.6,1800,#N/A,6.4,27750,27560,190,Yes,None
+73,Jamaica,Caribbean,2950210,18.16,6.7,25.3,73.55,1312000,13.8,8800,0.41,5.9,10991,10831,160,No,None
+74,Montserrat,Caribbean,5241,11.26,6.3,31.9,74.14,4521,6,8500,#N/A,#N/A,102,102,0,No,Montserrat: overseas territory of the UK
+75,Puerto Rico,Caribbean,3598357,10.86,8.67,39.1,79.25,1139000,13.7,38000,#N/A,#N/A,13791,8870,4921,No,"Puerto Rico: unincorporated, organized territory of the US with commonwealth status; policy relations between Puerto Rico and the US conducted under the jurisdiction of the Office of the President"
+76,Saint Barthelemy,Caribbean,7237,#N/A,#N/A,43,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,25,25,NEGL,No,Saint Barthelemy: overseas collectivity of France
+77,Saint Kitts and Nevis,Caribbean,51936,13.5,7.09,34,75.52,18170,4.5,24600,#N/A,5.9,261,261,0,No,None
+78,Saint Lucia,Caribbean,163922,13.7,7.42,33.5,77.6,79700,20,11700,0.11,8.5,616,606,10,No,None
+79,Saint Martin,Caribbean,31754,#N/A,#N/A,32,#N/A,17300,#N/A,19300,#N/A,#N/A,54,54,NEGL,Yes,Saint Martin: overseas collectivity of France
+80,Saint Vincent and the Grenadines,Caribbean,102627,13.57,7.18,32.5,75.09,57520,18.8,11000,#N/A,5.2,389,389,0,No,None
+81,Sint Maarten,Caribbean,39689,13,4.51,40.4,77.61,23200,12,66800,#N/A,#N/A,34,34,0,Yes,Sint Maarten: constituent country within the Kingdom of the Netherlands; full autonomy in internal affairs granted in 2010; Dutch Government responsible for defense and foreign affairs
+82,Trinidad and Tobago,Caribbean,1222363,13.46,8.56,35,72.59,629700,4,32600,1.18,5.4,5128,5128,0,No,None
+83,Turks and Caicos Islands,Caribbean,50280,16.13,3.1,32.4,79.69,4848,10,29100,#N/A,#N/A,948,948,0,No,Turks and Caicos Islands: overseas territory of the UK
+84,Virgin Islands,Caribbean,103574,10.31,8.54,44.9,79.89,50580,13,36100,#N/A,#N/A,1910,346,1564,No,"Virgin Islands: organized, unincorporated territory of the US with policy relations between the Virgin Islands and the US under the jurisdiction of the Office of Insular Affairs, US Department of the Interior"
+85,Belize,Central America,347369,24.68,5.97,22.1,68.59,120500,12.9,8400,0.83,5.8,22966,22806,160,Yes,None
+86,Costa Rica,Central America,4814144,15.91,4.55,30.4,78.4,2295000,9.3,15500,1.11,10.1,51100,51060,40,Yes,None
+87,El Salvador,Central America,6141350,16.46,5.69,26.1,74.42,2788000,5.5,8300,1.6,6.7,21041,20721,320,Yes,None
+88,Guatemala,Central America,14918999,24.89,4.77,21.4,72.02,4623000,2.9,7700,0.93,6.7,108889,107159,1730,Yes,None
+89,Honduras,Central America,8746673,23.14,5.17,22.3,71,3625000,3.9,4900,0.37,8.6,112090,111890,200,Yes,None
+90,Nicaragua,Central America,5907881,18.03,5.08,24.7,72.98,3013000,6,5000,0.9,8.2,130370,119990,10380,Yes,None
+91,Panama,Central America,3657024,18.32,4.81,28.6,78.47,1611000,4.5,21800,1.65,7.6,75420,74340,1080,Yes,None
+92,Kazakhstan,Central Asia,18157122,19.15,8.21,30,70.55,9059000,5.7,24300,3.62,4.2,2724900,2699700,25200,Yes,None
+93,Kyrgyzstan,Central Asia,5664939,22.98,6.65,26,70.36,2778000,8,3400,1.97,7.1,199951,191801,8150,Yes,None
+94,Russia,Central Asia,142423773,11.6,13.69,39.1,70.47,77410000,8.2,25400,4.31,6.3,17098242,16377742,720500,Yes,None
+95,Tajikistan,Central Asia,8191958,24.38,6.18,23.9,67.39,2209000,2.5,2700,1.92,5.8,144100,141510,2590,Yes,None
+96,Turkmenistan,Central Asia,5231422,19.4,6.13,27.1,69.78,2305000,11,16400,#N/A,2,488100,469930,18170,Yes,None
+97,Uzbekistan,Central Asia,29199942,17,5.3,27.6,73.55,17800000,4.9,6100,2.53,5.9,447400,425400,22000,Yes,None
+98,Brunei,East & South East Asia,429646,17.32,3.52,29.6,76.97,203600,6.9,79700,1.44,2.3,5765,5265,500,Yes,None
+99,Burma,East & South East Asia,56320206,18.39,7.96,28.3,66.29,37150000,4.8,5500,0.61,1.8,676578,653508,23070,Yes,None
+100,Cambodia,East & South East Asia,15708756,23.83,7.68,24.5,64.14,6643000,0.3,3500,0.17,5.4,181035,176515,4520,Yes,None
+101,China,East & South East Asia,1367485388,12.49,7.53,36.8,75.41,805900000,4.2,14100,1.49,5.4,9596960,9326410,270550,Yes,None
+102,Hong Kong,East & South East Asia,7141106,9.23,7.07,43.6,82.86,3911000,3.6,56700,#N/A,#N/A,1108,1073,35,Yes,Hong Kong: special administrative region of China
+103,Indonesia,East & South East Asia,255993674,16.72,6.37,29.6,72.45,123700000,6.3,11100,0.2,3,1904569,1811569,93000,Yes,None
+104,Japan,East & South East Asia,126919659,7.93,9.51,46.5,84.74,65930000,3.2,38100,2.3,10.1,377915,364485,13430,No,None
+105,"Korea, North",East & South East Asia,24983205,14.52,9.21,33.6,70.11,14000000,25.6,1800,#N/A,#N/A,120538,120408,130,Yes,None
+106,"Korea, South",East & South East Asia,49115196,8.19,6.75,40.8,80.04,27250000,4,36500,2.14,7.5,99720,96920,2800,Yes,None
+107,Laos,East & South East Asia,6911544,24.25,7.63,22.3,63.88,3500000,1.3,5300,0.18,2.9,236800,230800,6000,Yes,None
+108,Macau,East & South East Asia,592731,8.88,4.22,38.2,84.51,400000,1.9,98200,#N/A,#N/A,28,28,0,Yes,Macau: special administrative region of the People's Republic of China
+109,Malaysia,East & South East Asia,30513848,19.71,5.03,27.9,74.75,14770000,3.3,26300,1.2,4,329847,328657,1190,Yes,None
+110,Mongolia,East & South East Asia,2992908,20.25,6.35,27.5,69.29,1164000,8.3,12100,2.84,6.3,1564116,1553556,10560,Yes,None
+111,Philippines,East & South East Asia,100998376,24.27,6.11,23.2,68.96,42800000,6.6,7300,#N/A,4.6,300000,298170,1830,No,None
+112,Singapore,East & South East Asia,5674472,8.27,3.43,34,84.68,3661000,2.1,85300,1.95,4.7,697,687,10,No,None
+113,Taiwan,East & South East Asia,23415126,8.47,7.11,39.7,79.98,11680000,3.9,46800,#N/A,#N/A,35980,32260,3720,No,None
+114,Thailand,East & South East Asia,67976405,11.19,7.8,36.7,74.43,38450000,0.9,16100,0.39,3.9,513120,510890,2230,Yes,None
+115,Timor-Leste,East & South East Asia,1231116,34.16,6.1,18.6,67.72,259800,11,5600,0.07,4.3,14874,14874,0,Yes,None
+116,Vietnam,East & South East Asia,94348835,15.96,5.93,29.6,73.16,54930000,3.7,6000,1.19,6.6,331210,310070,21140,Yes,None
+117,Albania,Europe (Eastern),3029278,12.92,6.58,32,78.13,1179000,17.3,11900,1.15,6,28748,27398,1350,Yes,None
+118,Belarus,Europe (Eastern),9589689,10.7,13.36,39.6,72.48,4546000,0.7,17700,3.93,5,207600,202900,4700,Yes,None
+119,Bosnia and Herzegovina,Europe (Eastern),3867055,8.87,9.75,41.2,76.55,1480000,43.2,10500,1.93,9.9,51197,51187,10,Yes,None
+120,Bulgaria,Europe (Eastern),7186893,8.92,14.44,42.1,74.39,2525000,8.9,19100,3.87,7.4,110879,108489,2390,Yes,None
+121,Croatia,Europe (Eastern),4464844,9.45,12.18,42.6,76.61,1610000,15.8,21600,2.84,6.8,56594,55974,620,Yes,None
+122,Czechia,Europe (Eastern),10644842,9.63,10.34,41.3,78.48,5494000,5.6,31600,3.71,7.7,78867,77247,1620,Yes,None
+123,Estonia,Europe (Eastern),1265420,10.51,12.4,42.1,76.47,651200,6.5,28600,3.24,5.9,45228,42388,2840,Yes,None
+124,Hungary,Europe (Eastern),9897541,9.16,12.73,41.4,75.69,4564000,6.6,26200,3.1,7.8,93028,89608,3420,Yes,None
+125,Kosovo,Europe (Eastern),1870981,#N/A,#N/A,28.2,#N/A,483200,35.3,#N/A,#N/A,#N/A,10887,10887,0,Yes,None
+126,Moldova,Europe (Eastern),3546847,12,12.59,36,70.42,1253000,6.3,5000,2.98,11.7,33851,32891,960,Yes,None
+127,Montenegro,Europe (Eastern),647073,10.42,9.43,39.7,#N/A,263200,18.5,16100,2.11,7.6,13812,13452,360,Yes,None
+128,Poland,Europe (Eastern),38562189,9.74,10.19,39.9,77.4,17780000,9.6,26500,2.22,6.7,312685,304255,8430,Yes,None
+129,Romania,Europe (Eastern),21666350,9.14,11.9,40.2,74.92,9133000,6.7,20800,2.45,5.1,238391,229891,8500,Yes,None
+130,Serbia,Europe (Eastern),7176794,9.08,13.66,42.1,75.26,2910000,18.9,13700,2.11,10.5,77474,77474,0,Yes,None
+131,Slovakia,Europe (Eastern),5445027,9.91,9.74,39.6,76.88,2724000,9.8,29700,3.32,7.8,49035,48105,930,Yes,None
+132,Slovenia,Europe (Eastern),1983412,8.42,11.37,43.8,78.01,918700,11.6,31000,2.54,8.8,20273,20151,122,Yes,None
+133,Ukraine,Europe (Eastern),44429471,10.72,14.46,40.1,71.57,18040000,10,7500,3.54,7.6,603550,579330,24220,Yes,None
+134,Andorra,Europe (Western),85580,8.13,6.96,43,82.72,36060,4,37200,4,8.3,468,468,0,Yes,None
+135,Austria,Europe (Western),8665550,9.41,9.42,43.6,81.39,3944000,6.1,47300,4.83,11.5,83871,82445,1426,Yes,None
+136,Belgium,Europe (Western),11323973,11.41,9.63,41.4,80.88,5272000,8.4,43600,3.78,10.8,30528,30278,250,Yes,None
+137,Cyprus,Europe (Western),1189197,11.41,6.62,36.1,78.51,415100,11.8,32800,2.33,7.3,9251,9241,10,No,None
+138,Denmark,Europe (Western),5581503,10.27,10.25,41.8,79.25,2825000,4.2,45700,3.49,11.2,43094,42434,660,Yes,None
+139,Faroe Islands,Europe (Western),50196,13.77,8.71,37.7,80.24,25000,2.9,36600,#N/A,#N/A,1393,1393,0,No,Faroe Islands: part of the Kingdom of Denmark; self-governing overseas administrative division of Denmark since 1948
+140,Finland,Europe (Western),5476922,10.72,9.83,42.4,80.77,2675000,9.1,41100,2.91,9.1,338145,303815,34330,Yes,None
+141,France,Europe (Western),66553766,12.38,9.16,41.1,81.75,30480000,9.7,41200,3.19,11.7,643801,640427,3374,Yes,None
+142,Germany,Europe (Western),80854408,8.47,11.42,46.5,80.57,45300000,4.3,46900,3.89,11.3,357022,348672,8350,Yes,None
+143,Gibraltar,Europe (Western),29258,14.08,8.37,34.2,79.28,22910,3,43000,#N/A,#N/A,7,7,0,Yes,Gibraltar: overseas territory of the UK
+144,Greece,Europe (Western),10775643,8.66,11.09,43.8,80.43,4761000,24.6,26400,#N/A,9.3,131957,130647,1310,Yes,None
+145,Guernsey,Europe (Western),66080,9.84,8.78,43.4,82.47,31470,0.9,52300,#N/A,#N/A,78,78,0,No,GuernseyBritish crown dependency
+146,Holy See (Vatican City),Europe (Western),842,#N/A,#N/A,#N/A,#N/A,2885,#N/A,#N/A,#N/A,#N/A,0,0,0,Yes,None
+147,Iceland,Europe (Western),331918,13.91,6.28,36,82.97,195000,2.7,46100,3.48,9.1,103000,100250,2750,No,None
+148,Ireland,Europe (Western),4892305,14.84,6.48,36.1,80.68,2181000,8,55500,2.67,8.1,70273,68883,1390,Yes,None
+149,Isle of Man,Europe (Western),87545,11.1,10.06,43.7,81.09,41790,2,83100,#N/A,#N/A,572,572,0,No,Isle of Man: British Crown dependency
+150,Italy,Europe (Western),61855120,8.74,10.19,44.8,82.12,25600000,11.4,35700,3.76,9.2,301340,294140,7200,Yes,None
+151,Jersey,Europe (Western),97294,11.91,7.68,39,81.76,53380,1.7,57000,#N/A,#N/A,116,116,0,No,Jersey: British crown dependency
+152,Latvia,Europe (Western),1986705,10,14.31,42.9,74.23,968700,9.6,24700,3.58,6,64589,62249,2340,Yes,None
+153,Liechtenstein,Europe (Western),37624,10.45,7.12,42.7,81.77,35830,3.4,89400,#N/A,#N/A,160,160,0,Yes,None
+154,Lithuania,Europe (Western),2884433,10.1,14.27,43.1,74.69,1459000,8.2,28400,4.12,6.7,65300,62680,2620,Yes,None
+155,Luxembourg,Europe (Western),570252,11.37,7.24,39.2,82.17,272000,6.7,99000,2.9,6.9,2586,2586,0,Yes,None
+156,Macedonia,Europe (Western),2096015,11.55,9.08,37.2,76.02,957400,24.9,14000,2.62,7.1,25713,25433,280,Yes,None
+157,Malta,Europe (Western),413965,10.18,9.09,41.2,80.25,201600,4.6,35900,3.49,9.1,316,316,0,No,None
+158,Monaco,Europe (Western),30535,6.65,9.24,51.7,89.52,52000,2,78700,7.17,4.4,2,2,0,Yes,None
+159,Netherlands,Europe (Western),16947904,10.83,8.66,42.3,81.23,7919000,6.2,49200,#N/A,12.4,41543,33893,7650,Yes,None
+160,Norway,Europe (Western),5207689,12.14,8.12,39.1,81.7,2794000,4.8,68400,4.28,9,323802,304282,19520,Yes,None
+161,Portugal,Europe (Western),10825309,9.27,11.02,41.5,79.16,5167000,11.3,27800,4.1,9.4,92090,91470,620,Yes,None
+162,San Marino,Europe (Western),33020,8.63,8.45,43.9,83.24,21960,8.7,63900,5.1,6.5,61,61,0,Yes,None
+163,Spain,Europe (Western),48146134,9.64,9.04,42,81.57,22890000,19.7,34800,4.95,9.6,505370,498980,6390,Yes,None
+164,Svalbard,Europe (Western),1872,#N/A,#N/A,#N/A,#N/A,1590,#N/A,#N/A,#N/A,#N/A,62045,62045,0,No,"Svalbard: territory of Norway; administered by the Polar Department of the Ministry of Justice, through a governor (sysselmann) residing in Longyearbyen, Spitsbergen; by treaty (9 February 1920) sovereignty was awarded to Norway"
+165,Sweden,Europe (Western),9801616,11.99,9.4,41.2,81.98,5277000,6.9,47900,3.93,9.6,450295,410335,39960,Yes,None
+166,Switzerland,Europe (Western),8121830,10.5,8.13,42.1,82.5,5173000,3.4,58600,4.05,11.3,41277,39997,1280,Yes,None
+167,United Kingdom,Europe (Western),64088222,12.17,9.35,40.4,80.54,33170000,5.1,41200,2.81,9.4,243610,241930,1680,Yes,None
+168,Armenia,Middle East,3056382,13.61,9.34,34.2,74.37,1559000,18.1,8500,2.7,4.5,29743,28203,1540,Yes,None
+169,Azerbaijan,Middle East,9780780,16.64,7.07,30.5,72.2,4961000,6.4,18000,3.4,5.4,86600,82629,3971,Yes,None
+170,Bahrain,Middle East,1346613,13.66,2.69,31.8,78.73,809700,4.1,50100,0.92,3.9,760,760,0,No,None
+171,Gaza Strip,Middle East,1869055,31.11,3.04,18.4,74.87,1157000,26.1,#N/A,2.1,#N/A,360,360,0,Yes,None
+172,Georgia,Middle East,4931226,12.74,10.82,37.9,75.95,1959000,12.1,9600,4.27,9.2,69700,69700,0,Yes,None
+173,Iran,Middle East,81824270,17.99,5.94,28.8,71.15,29750000,10.7,17300,0.89,6.7,1648195,1531595,116600,Yes,None
+174,Iraq,Middle East,37056169,31.45,3.77,19.7,74.85,8900000,16,15500,0.61,3.6,438317,437367,950,Yes,None
+175,Israel,Middle East,8049314,18.48,5.15,29.6,82.27,3927000,5,33700,3.34,7.5,20770,20330,440,Yes,None
+176,Jordan,Middle East,8117564,25.37,3.79,22,74.35,2205000,14.8,12100,2.56,9.8,89342,88802,540,Yes,None
+177,Kuwait,Middle East,2788534,19.91,2.18,29,77.82,2546000,3,70200,1.79,2.5,17818,17818,0,Yes,None
+178,Lebanon,Middle East,6184701,14.59,4.88,29.4,77.4,1628000,#N/A,18200,3.2,7.3,10400,10230,170,Yes,None
+179,Oman,Middle East,3286936,24.44,3.36,25.1,75.21,968800,15,44600,2.43,2.6,309500,309500,0,Yes,None
+180,Qatar,Middle East,2194817,9.84,1.53,32.8,78.59,1691000,0.7,132100,7.74,2.2,11586,11586,0,Yes,None
+181,Saudi Arabia,Middle East,27752316,18.51,3.33,26.8,75.05,12020000,11.2,53600,2.49,3.2,2149690,2149690,0,Yes,None
+182,Syria,Middle East,17064854,22.17,4,23.8,74.69,3370000,50,5100,1.46,3.4,185180,183630,1550,Yes,None
+183,Turkey,Middle East,79414269,16.33,5.88,30.1,74.57,30240000,9.8,20400,1.71,6.3,783562,769632,13930,Yes,None
+184,United Arab Emirates,Middle East,5779760,15.43,1.97,30.3,77.29,5242000,2.4,67600,2.53,2.8,83600,83600,0,Yes,None
+185,West Bank,Middle East,2785366,22.99,3.5,22.7,75.91,828000,17.7,4300,1.3,#N/A,5860,5640,220,Yes,None
+186,Yemen,Middle East,26737317,29.98,6.28,18.9,65.18,7470000,27,2700,0.2,5.5,527968,527968,0,Yes,None
+187,Bermuda,North America,70196,11.33,8.23,43.1,81.15,33490,9,85700,#N/A,#N/A,54,54,0,No,Bermuda: overseas territory of the UK
+188,Canada,North America,35099836,10.28,8.42,41.8,81.76,19420000,7.1,45600,2.07,10.9,9984670,9093507,891163,Yes,None
+189,Greenland,North America,57733,14.48,8.49,33.7,72.1,26990,9.4,37900,1.67,#N/A,2166086,2166086,#N/A,No,Greenland: part of the Kingdom of Denmark; self-governing overseas administrative division of Denmark since 1979
+190,Mexico,North America,121736809,18.78,5.26,27.6,75.65,53740000,4.4,17500,2.1,6.1,1964375,1943945,20430,Yes,None
+191,Saint Pierre and Miquelon,North America,5657,7.42,9.72,45.2,80.39,3194,9.9,34900,#N/A,#N/A,242,242,0,No,Saint Pierre and Miquelon: self-governing territorial overseas collectivity of France
+192,United States,North America,321368864,12.49,8.15,37.8,79.68,158600000,4.7,55800,2.45,17.9,9833517,9147593,685924,Yes,None
+193,American Samoa,Oceania,54343,22.89,4.75,28.8,75.14,16090,29.8,13000,#N/A,#N/A,199,199,0,No,"American Samoa: unincorporated and unorganized territory of the US; administered by the Office of Insular Affairs, US Department of the Interior"
+194,Christmas Island,Oceania,1530,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,135,135,0,No,"Christmas Island: non-self governing territory of Australia; administered from Canberra by the Department of Regional Australia, Local Government, Arts and Sport"
+195,Cocos (Keeling) Islands,Oceania,596,#N/A,#N/A,#N/A,#N/A,#N/A,60,#N/A,#N/A,#N/A,14,14,0,No,"Cocos (Keeling) Islands: non-self governing territory of Australia; administered from Canberra by the Department of Regional Australia, Local Government, Arts and Sport"
+196,Cook Islands,Oceania,9838,14.33,8.03,35.3,75.6,6820,13.1,12300,1.33,3.4,236,236,0,No,Cook Islands: self-governing in free association with New Zealand; Cook Islands is fully responsible for internal affairs; New Zealand retains responsibility for external affairs and defense in consultation with the Cook Islands
+197,Fiji,Oceania,909389,19.43,6.04,28.2,72.43,350,8.8,9000,0.43,4,18274,18274,0,No,None
+198,French Polynesia,Oceania,282703,15.22,5.02,31,76.98,114300,21.8,26100,#N/A,#N/A,4167,3827,340,No,"French Polynesia: overseas lands of France; overseas territory of France from 1946-2003; overseas collectivity of France since 2003, though it is often referred to as an overseas country due to its degree of autonomy"
+199,Guam,Oceania,161785,16.82,5.12,30.1,78.98,70490,8.4,30500,#N/A,#N/A,544,544,0,No,"Guam: organized, unincorporated territory of the US with policy relations between Guam and the US under the jurisdiction of the Office of Insular Affairs, US Department of the Interior"
+200,Kiribati,Oceania,105711,21.46,7.12,23.9,65.81,39000,30.6,1800,0.38,10.7,811,811,0,No,None
+201,Marshall Islands,Oceania,72191,25.6,4.21,22.6,72.84,10670,36,3200,0.44,15.6,181,181,0,No,None
+202,"Micronesia, Federated States of",Oceania,105216,20.54,4.23,24.2,72.62,37920,16.2,3000,0.18,12.8,702,702,0,No,None
+203,Nauru,Oceania,9540,24.95,5.87,25.7,66.75,#N/A,23,14800,0.71,7.5,21,21,0,No,None
+204,New Caledonia,Oceania,271615,15.33,5.52,31.4,77.5,106400,17.1,38800,#N/A,#N/A,18575,18275,300,No,New Caledonia: territorial collectivity (or a sui generis collectivity) of France since 1998
+205,Niue,Oceania,1190,#N/A,#N/A,#N/A,#N/A,663,12,5800,3,6.7,260,260,0,No,"Niue: self-governing in free association with New Zealand since 1974; Niue fully responsible for internal affairs; New Zealand retains responsibility for external affairs and defense; however, these responsibilities confer no rights of control and are only exercised at the request of the Government of Niue"
+206,Norfolk Island,Oceania,2210,#N/A,#N/A,#N/A,#N/A,978,#N/A,#N/A,#N/A,#N/A,36,36,0,No,"Norfolk Island: self-governing territory of Australia; administered from Canberra by the Department of Regional Australia, Local Government, Arts and Sport"
+207,Northern Mariana Islands,Oceania,52344,18.32,3.71,32.1,77.82,27970,11.2,13300,#N/A,#N/A,464,464,0,No,"Northern Mariana Islands: commonwealth in political union with the US; federal funds to the Commonwealth administered by the US Department of the Interior, Office of Insular Affairs"
+208,Palau,Oceania,21265,11.05,7.99,33.2,72.87,10470,4.2,15100,1.38,9.5,459,459,0,No,None
+209,Pitcairn Islands,Oceania,48,#N/A,#N/A,#N/A,#N/A,15,#N/A,#N/A,#N/A,#N/A,47,47,0,No,Pitcairn Islands: overseas territory of the UK
+210,Samoa,Oceania,197773,20.87,5.32,23.5,73.46,49180,#N/A,5200,0.45,6.8,2831,2821,10,No,None
+211,Solomon Islands,Oceania,622469,25.77,3.85,21.9,75.12,202500,#N/A,1900,0.22,8,28896,27986,910,No,None
+212,Tokelau,Oceania,1337,#N/A,#N/A,#N/A,#N/A,440,#N/A,1000,#N/A,#N/A,12,12,0,No,Tokelau: self-administering territory of New Zealand; note - Tokelau and New Zealand have agreed to a draft constitution as Tokelau moves toward free association with New Zealand; a UN-sponsored referendum on self governance in October 2007 did not produce the two-thirds majority vote necessary for changing the political status
+213,Tonga,Oceania,106501,23,4.85,22.3,76.04,33800,1.1,5100,0.56,5.4,747,717,30,No,None
+214,Tuvalu,Oceania,10869,23.74,8.74,25.2,66.16,3615,#N/A,3400,1.09,15.4,26,26,0,No,None
+215,Vanuatu,Oceania,272264,25.04,4.09,21.4,73.06,115900,1.7,2500,0.12,3.6,12189,12189,0,No,None
+216,Wallis and Futuna,Oceania,15613,13.45,5.06,30.9,79.57,3104,12.2,3800,#N/A,#N/A,142,142,0,No,Wallis and Futuna: overseas territory of France
+217,Argentina,South America,43431886,16.64,7.33,31.4,77.69,17710000,8,22600,3.86,8.5,2780400,2736690,43710,Yes,None
+218,Bolivia,South America,10800882,22.76,6.52,23.7,68.86,4993000,7.5,6500,0.47,5.8,1098581,1083301,15280,Yes,None
+219,Brazil,South America,204259812,14.46,6.58,31.1,73.53,110400000,12.6,15600,1.89,9.3,8515770,8358140,157630,Yes,None
+220,Chile,South America,17508260,13.83,6,33.7,78.61,8777000,7,23500,1.02,7.2,756102,743812,12290,Yes,None
+221,Colombia,South America,46736728,16.47,5.4,29.3,75.48,24430000,9.5,13800,1.47,6.8,1138910,1038700,100210,Yes,None
+222,Ecuador,South America,15868396,18.51,5.06,27,76.56,4848000,5.5,11300,1.72,6.4,283561,276841,6720,Yes,None
+223,Falkland Islands (Islas Malvinas),South America,3361,#N/A,#N/A,#N/A,#N/A,1944,4.1,55400,#N/A,#N/A,12173,12173,0,No,Falkland Islands (Islas Malvinas): overseas territory of the UK; also claimed by Argentina
+224,Guyana,South America,735222,15.59,7.32,25.4,68.09,313800,11.1,7500,0.21,6.6,214969,196849,18120,Yes,None
+225,Paraguay,South America,6783272,16.37,4.68,27.3,76.99,3291000,6.2,8700,1.23,10.3,406752,397302,9450,Yes,None
+226,Peru,South America,30444999,18.28,6.01,27.3,73.48,17120000,5.9,12200,1.13,5.1,1285216,1279996,5220,Yes,None
+227,Suriname,South America,579633,16.34,6.13,29.1,71.97,165600,8.9,16300,#N/A,5.9,163820,156000,7820,Yes,None
+228,Uruguay,South America,3341893,13.07,9.45,34.5,77,1736000,7.6,21500,3.74,8.9,176215,175015,1200,Yes,None
+229,Venezuela,South America,29275460,19.16,5.31,27.2,74.54,14160000,10.5,16700,#N/A,4.6,912050,882050,30000,Yes,None
+230,Afghanistan,South Asia,32564342,38.57,13.89,18.4,50.87,7983000,35,1900,0.27,8.6,652230,652230,0,Yes,None
+231,Bangladesh,South Asia,168957745,21.14,5.61,24.7,70.94,83590000,4.9,3600,0.36,3.6,148460,130170,18290,Yes,None
+232,Bhutan,South Asia,741919,17.78,6.69,26.7,69.51,348800,2.6,8200,0.26,3.8,38394,38394,0,Yes,None
+233,India,South Asia,1251695584,19.55,7.32,27.3,68.13,513700000,8.4,6200,0.7,4,3287263,2973193,314070,Yes,None
+234,Maldives,South Asia,393253,15.75,3.89,27.4,75.37,195100,11.6,14900,1.42,8.5,298,298,0,No,None
+235,Nepal,South Asia,31551305,20.64,6.56,23.4,67.52,15200000,46,2500,#N/A,5.5,147181,143351,3830,Yes,None
+236,Pakistan,South Asia,199085847,22.58,6.49,23,67.39,65100000,6.7,5000,0.83,2.7,796095,770875,25220,Yes,None
+237,Sri Lanka,South Asia,22053488,15.85,6.11,32.1,76.56,9062000,4.5,10600,0.68,3.3,65610,64630,980,No,None
