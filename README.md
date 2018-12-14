@@ -1,5 +1,9 @@
 # Data Analysis with Python I
 
+Classwork examples and exercises for the Data Analysis with Python I module of the Degree Apprenticeship in Data Analytics and Visualisation.
+
+If you spot any mistakes or problems, or have any suggestions, please raise an issue.
+
 ## Import, clean
 
 - [Read csv](./01%20Tutorial.ipynb#Getting-the-data-into-Python)
